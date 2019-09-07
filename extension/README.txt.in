@@ -1,0 +1,21 @@
+README
+
+activities-button-set-text
+
+
+Gnome Shell Extension Acitviities Button Set Text
+
+This extension is covered by copyright and is provided under the terms
+of the GNU General Public License version 2.
+
+See the copyright statement in the file extension.js and the file
+COPYING for details.
+
+2019-08-30
+
+This extension is provided for use with the Dash to Panel extension.
+The Activities Configurator extension is not compatible with Dash to Panel.
+
+...
+
+zip file: 

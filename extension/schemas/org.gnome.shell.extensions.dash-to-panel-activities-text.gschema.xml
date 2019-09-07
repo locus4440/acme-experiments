@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="wyqydsyq-extensions">
+  <schema path="/org/gnome/shell/extensions/dash-to-panel-activities-text/" id="org.gnome.shell.extensions.dash-to-panel-activities-text">
+    <key type="s" name="activities-text">
+      <default>"🔲"</default>
+      <summary>Activities Button Text.</summary>
+      <description>Contains the text displayed.</description>
+    </key>
+    <key type="d" name="activities-text-scale-factor">
+      <default>1.2</default>
+      <summary>Text scaling factor in em.</summary>
+      <description>Scaling factor for Activities Text.</description>
+    </key>
+ </schema>
+</schemalist>
